@@ -1,0 +1,30 @@
+\usepackage{xcolor}
+\definecolor{lightblue}{RGB}{173,216,230}
+\definecolor{projectblue}{HTML}{6BAED6}
+\definecolor{paper}{HTML}{FCFCFC}
+
+\usepackage{atbegshi}
+\AtBeginShipout{\AtBeginShipoutUpperLeft{%
+    \color{paper}\rule{\paperwidth}{-\paperheight}%
+}}
+
+\usepackage{fvextra}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{
+    breaklines,
+    breakanywhere,
+    commandchars=\\\{\},
+    fontsize=\small
+}
+\DefineVerbatimEnvironment{verbatim}{Verbatim}{
+    breaklines,
+    breakanywhere,
+    fontsize=\small
+}
+
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks = true,
+  linkcolor  = projectblue,
+  urlcolor   = projectblue,
+  citecolor  = projectblue
+}
