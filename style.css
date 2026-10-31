@@ -1,0 +1,341 @@
+/* --------------------------------------------------------------------------
+   1. PALETTE
+   -------------------------------------------------------------------------- */
+:root {
+  --main-font:   Georgia, "Times New Roman", serif;
+  --code-font:   Consolas, "Courier New", monospace;
+  --h1-color:    #02044C;
+  --h2-color:    #030563;
+  --h3-color:    #040675;
+  --text-color:  #010122;
+  --link-color:  #07597F;
+  --soft-bg:     #E8F6FD;
+  --border-col:  #01A7F4;
+  --muted:       #032636;
+}
+
+
+/* --------------------------------------------------------------------------
+   2. BODY
+   -------------------------------------------------------------------------- */
+body {
+  font-family: var(--main-font);
+  font-size: 17px;
+  line-height: 1.6;
+  color: var(--text-color);
+  background-color: #FCFCFC;
+}
+
+.main-container {
+  max-width: 3000px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+
+/* --------------------------------------------------------------------------
+   3. HEADINGS
+   -------------------------------------------------------------------------- */
+h1 {
+  color: var(--h1-color);
+  font-size: 28px;
+  margin-top: 1.4em;
+  margin-bottom: 0.4em;
+}
+
+h2 {
+  color: var(--h2-color);
+  font-size: 22px;
+  margin-top: 1.3em;
+}
+
+h3 {
+  color: var(--h3-color);
+  font-size: 18px;
+}
+
+h4, h5, h6 {
+  color: var(--text-color);
+  font-size: 16px;
+  font-style: italic;
+}
+
+h1.title  { font-size: 34px; margin-bottom: 0.2em; }
+h3.subtitle {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--muted);
+}
+h4.author, h4.date {
+  color: var(--muted);
+  font-style: normal;
+  font-size: 15px;
+}
+
+
+/* --------------------------------------------------------------------------
+   4. PARAGRAPHS AND LISTS
+   -------------------------------------------------------------------------- */
+p  { margin-bottom: 1em; }
+ul, ol { padding-left: 1.5em; }
+li { margin-bottom: 0.35em; }
+li::marker { color: var(--h2-color); }
+
+blockquote {
+  border-left: 4px solid var(--h2-color);
+  background-color: var(--soft-bg);
+  padding: 8px 16px;
+  margin: 1.2em 0;
+  color: #4B5563;
+  font-size: 0.97em;
+}
+
+
+/* --------------------------------------------------------------------------
+   5. LINKS
+   -------------------------------------------------------------------------- */
+a         { color: var(--link-color); text-decoration: none; }
+a:hover   { color: var(--h1-color); text-decoration: underline; }
+a:visited { color: #681A8F; }
+
+
+/* --------------------------------------------------------------------------
+   6. CODE
+   `pre`      = the block around a code chunk and its printed output
+   `pre code` = the code text inside that block
+   `p code`   = inline code written with backticks in a sentence
+   NB: the COLOURS of keywords and strings come from `highlight:` in the YAML,
+   not from here. A dark background needs a dark highlight style.
+   -------------------------------------------------------------------------- */
+
+body pre,
+body pre:not(.sourceCode),
+div.sourceCode,
+div.sourceCode pre {
+  background-color: var(--soft-bg);
+}
+
+pre {
+  border: 1px solid var(--border-col);
+  border-radius: 8px;
+  padding: 10px 12px;
+  overflow-x: auto;
+}
+
+pre code {
+  font-family: var(--code-font);
+  font-size: 14px;
+  line-height: 1.45;
+}
+
+p code, li code {
+  font-family: var(--code-font);
+  font-size: 0.9em;
+  color: var(--h1-color);
+  background-color: var(--soft-bg);
+  border-radius: 4px;
+  padding: 1px 4px;
+}
+
+
+/* --------------------------------------------------------------------------
+   7. TABLES
+   -------------------------------------------------------------------------- */
+table {
+  border-collapse: collapse;
+  width: auto;
+  margin: 1em 0;
+  font-size: 15px;
+}
+
+th {
+  background-color: var(--h1-color);
+  color: #08006B;
+  padding: 8px 12px;
+  text-align: left;
+}
+
+td {
+  border-bottom: 1px solid var(--border-col);
+  padding: 6px 12px;
+}
+
+tbody tr:nth-child(even) { background-color: var(--soft-bg); }
+tbody tr:hover { background-color: #EFF5F3; }
+
+caption {
+  caption-side: bottom;
+  color: var(--muted);
+  font-style: italic;
+  font-size: 14px;
+  padding-top: 6px;
+}
+
+
+/* --------------------------------------------------------------------------
+   8. FIGURES AND CAPTIONS
+   -------------------------------------------------------------------------- */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.figure { text-align: center; }
+
+p.caption, .caption {
+  color: var(--muted);
+  font-size: 14px;
+  font-style: italic;
+}
+
+
+/* --------------------------------------------------------------------------
+   9. FLOATING TABLE OF CONTENTS
+   -------------------------------------------------------------------------- */
+#TOC {
+  font-size: 14px;
+  background-color: #FCFCFC;
+  border-right: 1px solid var(--border-col);
+  padding: 10px;
+}
+
+.list-group-item.active,
+.list-group-item.active:hover,
+.list-group-item.active:focus {
+  background-color: var(--h1-color);
+  border-color: var(--h1-color);
+}
+
+.list-group-item:hover { background-color: #EFF5F3; }
+
+
+/* --------------------------------------------------------------------------
+   10. BUTTONS AND COLLAPSIBLE BLOCKS
+   -------------------------------------------------------------------------- */
+.btn, .btn-default {
+  background-color: var(--h3-color);
+  color: #FFFFFF;
+  border: none;
+  border-radius: 4px;
+  font-size: 12px;
+}
+
+details {
+  background-color: var(--soft-bg);
+  border-left: 3px solid var(--h3-color);
+  border-radius: 4px;
+  padding: 8px 12px;
+  margin: 1em 0;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: bold;
+  color: var(--h1-color);
+}
+
+.nav-tabs > li.active > a { color: var(--h1-color); font-weight: bold; }
+
+
+/* --------------------------------------------------------------------------
+   11. YOUR OWN BOXES
+   -------------------------------------------------------------------------- */
+.note, .warning, .tip {
+  padding: 12px 16px;
+  margin: 1.2em 0;
+  border-radius: 6px;
+}
+
+.note    { background-color: #EAF2F8; border: 1px solid var(--h1-color); }
+.warning { background-color: #FCEDE8; border: 1px solid var(--h2-color); }
+.tip     { background-color: #E8F3F1; border: 1px solid var(--h3-color); }
+
+.warning::before { content: "Careful. "; font-weight: bold; color: var(--h2-color); }
+
+.highlight { background-color: #FFF3BF; padding: 0 3px; }
+
+hr {
+  border: none;
+  border-top: 1px solid var(--border-col);
+  margin: 2em 0;
+}
+
+
+/* --------------------------------------------------------------------------
+   12. PRINTING
+   -------------------------------------------------------------------------- */
+@media print {
+  #TOC, .btn { display: none; }
+  body { font-size: 11pt; }
+  a { color: #000000; text-decoration: underline; }
+  pre, table, .figure { page-break-inside: avoid; }
+}
+
+
+/* --------------------------------------------------------------------------
+   13. SMALL SCREENS
+   -------------------------------------------------------------------------- */
+@media (max-width: 768px) {
+  body { font-size: 15px; }
+  .main-container { padding: 0 12px; }
+  table { font-size: 13px; }
+}
+
+
+/* --------------------------------------------------------------------------
+   14. BACKGROUND UNIFICATION
+   All embedded objects (figures, widgets, SVG, canvas, iframes, htmlwidgets)
+   share the same paper colour as the page.
+   -------------------------------------------------------------------------- */
+
+:root {
+  --page-bg: #FCFCFC;
+}
+
+html, body {
+  background-color: var(--page-bg);
+}
+
+.main-container,
+#quarto-content,
+#quarto-document-content,
+.page-columns,
+.page-layout-article,
+.content,
+.body,
+section.level1,
+section.level2,
+section.level3,
+.level1, .level2, .level3 {
+  background-color: var(--page-bg);
+}
+
+img,
+svg,
+canvas,
+figure,
+.figure,
+.quarto-figure,
+.cell-output-display,
+.cell-output,
+.cell-output-stdout,
+.cell-output-stderr,
+div.sourceCode,
+pre,
+.html-widget,
+.plotly,
+.leaflet-container,
+iframe,
+video,
+object,
+embed {
+  background-color: var(--page-bg);
+}
+
+table, thead, tbody, tr, th, td {
+  background-color: transparent;
+}
+tbody tr:nth-child(even) { background-color: var(--soft-bg); }
