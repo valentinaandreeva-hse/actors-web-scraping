@@ -48,7 +48,7 @@ packages <- c('RColorBrewer', 'scales', 'ggplot2', 'dplyr', 'tidyr', 'stringr', 
 
 invisible(lapply(packages, library, character.only = TRUE))
 
-here::i_am("Andreeva_web_scraping.Rmd")
+here::i_am("Actors_web_scraping.Rmd")
 ```
 
 ```{r message = F, warning = F, include=FALSE}
