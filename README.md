@@ -1,6 +1,6 @@
 # actors-web-scraping
 
-A reproducible R web-scraping project that collects Wikipedia data on actors with Hollywood Walk of Fame motion picture stars and prepares a clean dataset for analyzing which factors are associated with Oscar wins.
+R web-scraping project that collects Wikipedia data on actors with Hollywood Walk of Fame motion picture stars and prepares a clean dataset for analyzing which factors are associated with Oscar wins.
 
 ---
 
@@ -53,8 +53,6 @@ The scraping code follows polite crawling rules:
 - Downloaded pages are cached locally so that re-running the script does not re-download existing files;
 - `robots.txt` and Wikipedia terms were checked beforehand and permit scraping for this kind of use.
 
-Because all interaction with the site is handled in `01_collect.R` and all parsing happens offline, the main analysis (`Actors_web_scraping.Rmd`) is **fully reproducible** even if the live pages change.
-
 ---
 
 ## Repository structure
@@ -62,7 +60,7 @@ Because all interaction with the site is handled in `01_collect.R` and all parsi
 .
 ├── README.md                    # This file
 ├── 01_collect.R                 # Downloads actor HTML pages from Wikipedia
-├── Actors_web_scraping.Rmd      # Main reproducible report (scraping + EDA)
+├── Actors_web_scraping.Rmd      # Main report (scraping + EDA)
 ├── Actors_web_scraping.html     # Rendered HTML report
 ├── Actors_web_scraping.pdf      # Rendered PDF report
 ├── preamble.tex                 # LaTeX preamble for PDF styling
