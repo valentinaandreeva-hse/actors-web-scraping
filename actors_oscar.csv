@@ -1,0 +1,945 @@
+actor,sex,age,address,birth_country,n_children,oscar_won,birth_year,inducted_year,age_at_star
+Bud Abbott,M,76,Vine Street,United States,2,0,1897,1960,63
+Art Acord,M,40,Vine Street,United States,,0,1890,1960,
+Amy Adams,F,52,Hollywood Boulevard,Other,1,0,1974,2017,43
+Renee Adoree,F,35,Vine Street,Other,,0,1898,1960,
+Philip Ahn,M,72,Hollywood Boulevard,United States,,0,1905,1984,
+Frank Albertson,M,55,Hollywood Boulevard,United States,5,0,1909,1960,51
+Ben Alexander,M,58,Hollywood Boulevard,United States,,0,1911,1960,48
+Rex Allen,M,78,Hollywood Boulevard,United States,5,0,1920,1975,55
+Tim Allen,M,73,Hollywood Boulevard,United States,2,0,1953,2004,51
+Kirstie Alley,F,71,Hollywood Boulevard,United States,2,0,1951,1995,44
+June Allyson,F,88,Vine Street,United States,2,0,1917,1960,43
+Don Alvarado,M,62,Hollywood Boulevard,United States,1,0,1904,1960,56
+Adrienne Ames,F,39,Vine Street,United States,1,0,1907,1960,
+Bronco Billy Anderson,M,88,Vine Street,United States,1,0,1882,1960,78
+Mary Anderson,F,96,Vine Street,United States,1,0,1918,1960,42
+Julie Andrews,F,91,Hollywood Boulevard,United Kingdom,3,1,1935,1979,44
+Heather Angel,F,77,Hollywood Boulevard,United Kingdom,1,0,1909,1960,51
+Jennifer Aniston,F,57,Hollywood Boulevard,United States,,0,1969,2012,43
+Ann-Margret,F,85,Hollywood Boulevard,Other,,0,1941,1973,32
+Roscoe Arbuckle,M,46,Hollywood Boulevard,United States,,0,1887,1960,
+Alan Arkin,M,89,Hollywood Boulevard,United States,3,1,1934,2019,85
+Richard Arlen,M,76,Hollywood Boulevard,United States,2,0,1899,1960,61
+George Arliss,M,77,Hollywood Boulevard,United Kingdom,,1,1868,1960,
+Desi Arnaz,M,69,Hollywood Boulevard,Other,1,0,1917,1960,43
+Jean Arthur,F,90,Hollywood Boulevard,United States,,0,1900,1960,60
+Fred Astaire,M,88,Hollywood Boulevard,United States,2,0,1899,1960,61
+Nils Asther,M,84,Hollywood Boulevard,Other,1,0,1897,1960,63
+Mary Astor,F,81,Hollywood Boulevard,United States,2,1,1906,1960,54
+Gene Autry,M,91,Hollywood Boulevard,United States,,0,1907,1960,53
+Agnes Ayres,F,44,Hollywood Boulevard,United States,1,0,1896,1960,
+Lew Ayres,M,88,Hollywood Boulevard,United States,1,0,1908,1960,52
+Lauren Bacall,F,89,Vine Street,United States,3,0,1924,1960,36
+Kevin Bacon,M,68,Hollywood Boulevard,United States,2,0,1958,2003,45
+Lloyd Bacon,M,65,Hollywood Boulevard,United States,,0,1890,1960,
+King Baggot,M,68,Hollywood Boulevard,United States,2,0,1879,1960,
+Fay Bainter,F,74,Hollywood Boulevard,United States,1,1,1893,1960,67
+Carroll Baker,F,95,Vine Street,United States,1,0,1931,1960,29
+Lucille Ball,F,77,Hollywood Boulevard,United States,1,0,1911,1960,49
+Antonio Banderas,M,66,Hollywood Boulevard,Other,1,0,1960,2005,45
+Tallulah Bankhead,F,66,Hollywood Boulevard,United States,,0,1902,1960,58
+Vilma Banky,F,93,Hollywood Boulevard,Other,,0,1898,1960,62
+Theda Bara,F,64,Hollywood Boulevard,United States,,0,1890,1960,
+Javier Bardem,M,57,Hollywood Boulevard,Other,2,1,1969,2012,43
+Lynn Bari,F,75,Hollywood Boulevard,United States,2,0,1913,1960,47
+Binnie Barnes,F,95,Vine Street,United Kingdom,3,0,1903,1960,57
+Mona Barrie,F,54,Hollywood Boulevard,United Kingdom,,0,1909,1960,51
+Wendy Barrie,F,65,Vine Street,Other,,0,1912,1960,48
+Bessie Barriscale,F,80,Hollywood Boulevard,United States,1,0,1884,1960,76
+Drew Barrymore,F,51,Hollywood Boulevard,United States,2,0,1975,2004,29
+Ethel Barrymore,F,79,Hollywood Boulevard,United States,3,1,1879,1960,
+John Barrymore,M,60,Hollywood Boulevard,United States,,0,1882,1960,
+Lionel Barrymore,M,76,Vine Street,United States,2,1,1878,1960,
+Richard Barthelmess,M,68,Hollywood Boulevard,United States,2,0,1895,1960,65
+Freddie Bartholomew,M,67,Hollywood Boulevard,United Kingdom,2,0,1924,1960,36
+Billy Barty,M,76,Hollywood Boulevard,United States,2,0,1924,1981,57
+Richard Basehart,M,70,Hollywood Boulevard,United States,3,0,1914,1960,46
+Kim Basinger,F,72,Hollywood Boulevard,United States,1,1,1953,1992,39
+Lina Basquette,F,87,Vine Street,United States,2,0,1907,1960,
+Angela Bassett,F,68,Hollywood Boulevard,United States,2,0,1958,2008,50
+Jason Bateman,M,57,Hollywood Boulevard,United States,2,0,1969,2017,48
+Kathy Bates,F,78,Hollywood Boulevard,United States,,1,1948,2016,68
+Anne Baxter,F,62,Hollywood Boulevard,United States,3,1,1923,1960,37
+Warner Baxter,M,62,Hollywood Boulevard,United States,,1,1889,1960,
+Beverly Bayne,F,87,Vine Street,United States,1,0,1894,1960,66
+William Beaudine,M,78,Vine Street,United States,,0,1892,1960,68
+Wallace Beery,M,64,Hollywood Boulevard,United States,1,1,1885,1960,
+Kristen Bell,F,46,Hollywood Boulevard,United States,2,0,1980,2019,39
+Madge Bellamy,F,90,Hollywood Boulevard,United States,,0,1899,1960,61
+John Belushi,M,33,Hollywood Boulevard,United States,,0,1949,2004,
+Robert Benchley,M,56,Vine Street,United States,2,0,1889,1960,
+Annette Bening,F,68,Hollywood Boulevard,United States,4,0,1958,2006,48
+Belle Bennett,F,41,Vine Street,United States,3,0,1891,1960,
+Constance Bennett,F,60,Hollywood Boulevard,United States,3,0,1904,1960,56
+Joan Bennett,F,80,Hollywood Boulevard,United States,4,0,1910,1960,50
+Jack Benny,M,80,Hollywood Boulevard,United States,1,0,1894,1960,66
+Edgar Bergen,M,75,Hollywood Boulevard,United States,2,0,1903,1960,57
+Ingrid Bergman,F,67,Hollywood Boulevard,Other,4,1,1915,1960,45
+Sarah Bernhardt,F,78,Vine Street,Other,1,0,1844,1960,
+Halle Berry,F,60,Hollywood Boulevard,United States,2,1,1966,2007,41
+Edna Best,F,74,Hollywood Boulevard,United Kingdom,3,0,1900,1960,60
+Charles Bickford,M,76,Hollywood Boulevard,United States,2,0,1891,1960,69
+Constance Binney,F,93,Hollywood Boulevard,United States,,0,1896,1960,64
+Jack Black,M,57,Hollywood Boulevard,United States,2,0,1969,2018,49
+Sidney Blackmer,M,78,Vine Street,United States,2,0,1895,1960,65
+Carlyle Blackwell,M,71,Hollywood Boulevard,United States,,0,1884,1960,
+Cate Blanchett,F,57,Hollywood Boulevard,Australia,4,1,1969,2008,39
+Emily Blunt,F,43,Hollywood Boulevard,United Kingdom,2,0,1983,2026,43
+Joan Blondell,F,73,Hollywood Boulevard,United States,2,0,1906,1960,54
+Orlando Bloom,M,49,Hollywood Boulevard,United Kingdom,2,0,1977,2014,37
+Monte Blue,M,76,Hollywood Boulevard,United States,2,0,1887,1960,73
+Ann Blyth,F,98,Hollywood Boulevard,United States,5,0,1927,1960,32
+Betty Blythe,F,78,Vine Street,United States,,0,1893,1960,67
+Eleanor Boardman,F,93,Hollywood Boulevard,United States,2,0,1898,1960,62
+Humphrey Bogart,M,57,Hollywood Boulevard,United States,2,1,1899,1960,
+Mary Boland,F,83,Hollywood Boulevard,United States,,0,1882,1960,78
+John Boles,M,73,Hollywood Boulevard,United States,2,0,1895,1960,65
+Ray Bolger,M,83,Hollywood Boulevard,United States,,0,1904,1960,56
+Beulah Bondi,F,91,Vine Street,United States,,0,1889,1960,71
+Shirley Booth,F,94,Hollywood Boulevard,United States,,1,1898,1960,62
+Olive Borden,F,41,Hollywood Boulevard,United States,,0,1906,1958,
+Ernest Borgnine,M,95,Hollywood Boulevard,United States,4,1,1917,1960,43
+Frank Borzage,M,68,Hollywood Boulevard,United States,,0,1894,1960,66
+Chadwick Boseman,M,43,Hollywood Boulevard,Other,,0,1976,2025,
+Hobart Bosworth,M,76,Hollywood Boulevard,United States,1,0,1867,1960,
+Clara Bow,F,60,Vine Street,United States,2,0,1905,1960,55
+John Bowers,M,50,Vine Street,United States,,0,1885,1960,
+William Boyd,M,77,Vine Street,United States,1,0,1895,1960,65
+Charles Boyer,M,78,Hollywood Boulevard,Other,1,0,1899,1960,61
+Alice Brady,F,46,Hollywood Boulevard,United States,1,1,1892,1960,
+Marlon Brando,M,80,Vine Street,United States,11,1,1924,1960,36
+Walter Brennan,M,80,Hollywood Boulevard,United States,3,1,1894,1960,66
+Evelyn Brent,F,73,Hollywood Boulevard,United States,,0,1901,1960,59
+George Brent,M,75,Vine Street,Other,2,0,1904,1960,56
+Mary Brian,F,96,Vine Street,United States,,0,1906,1960,54
+Fanny Brice,F,59,Hollywood Boulevard,United States,2,0,1891,1960,
+Jeff Bridges,M,76,Hollywood Boulevard,United States,3,1,1949,1994,45
+Matthew Broderick,M,64,Hollywood Boulevard,United States,3,0,1962,2006,44
+Charles Bronson,M,81,Hollywood Boulevard,United States,4,0,1921,1980,59
+Mel Brooks,M,100,Hollywood Boulevard,United States,4,0,1926,2010,84
+Pierce Brosnan,M,73,Hollywood Boulevard,Other,5,0,1953,1997,44
+Joe E. Brown,M,81,Vine Street,United States,4,0,1892,1960,68
+Johnny Mack Brown,M,70,Hollywood Boulevard,United States,,0,1904,1960,56
+Tom Brown,M,77,Vine Street,United States,3,0,1913,1960,47
+Vanessa Brown,F,71,Vine Street,Other,2,0,1928,1960,32
+Tod Browning,M,82,Hollywood Boulevard,United States,,0,1880,1960,80
+Yul Brynner,M,65,Hollywood Boulevard,Other,5,1,1920,1960,40
+Sandra Bullock,F,62,Hollywood Boulevard,United States,2,1,1964,2005,41
+John Bunny,M,51,Vine Street,United States,,0,1863,1960,
+Billie Burke,F,85,Hollywood Boulevard,United States,1,0,1884,1960,76
+Smiley Burnette,M,55,Hollywood Boulevard,United States,,0,1911,1986,
+Bob Burns,M,65,Vine Street,United States,4,0,1890,1960,
+George Burns,M,100,Vine Street,United States,2,1,1896,1960,64
+Richard Burton,M,58,Hollywood Boulevard,United Kingdom,4,0,1925,2013,
+Mae Busch,F,54,Hollywood Boulevard,Australia,,0,1891,1960,
+Francis X. Bushman,M,83,Vine Street,United States,,0,1883,1960,77
+David Butler,M,84,Hollywood Boulevard,United States,,0,1894,1960,66
+Charles Butterworth,M,49,Hollywood Boulevard,United States,,0,1896,1960,
+Spring Byington,F,84,Hollywood Boulevard,United States,2,0,1886,1960,74
+James Caan,M,82,Hollywood Boulevard,United States,5,0,1940,1978,38
+Nicolas Cage,M,62,Hollywood Boulevard,United States,3,1,1964,1998,34
+James Cagney,M,86,Hollywood Boulevard,United States,2,1,1899,1960,61
+Alice Calhoun,F,65,Hollywood Boulevard,United States,,0,1900,1960,60
+Rory Calhoun,M,76,Hollywood Boulevard,Other,5,0,1922,1960,38
+Dyan Cannon,F,89,Hollywood Boulevard,United States,1,0,1937,1983,46
+Judy Canova,F,69,Hollywood Boulevard,United States,2,0,1913,1960,47
+Cantinflas,M,81,Hollywood Boulevard,Other,1,0,1911,1980,69
+Eddie Cantor,M,72,Hollywood Boulevard,United States,5,0,1892,1960,68
+Yakima Canutt,M,90,Vine Street,United States,3,0,1895,1985,90
+Steve Carell,M,64,Hollywood Boulevard,United States,2,0,1962,2016,54
+Harry Carey,M,69,Vine Street,United States,2,0,1878,1960,
+Kitty Carlisle,F,96,Hollywood Boulevard,United States,2,0,1910,1960,50
+Mary Carlisle,F,104,Hollywood Boulevard,United States,1,0,1914,1960,46
+Sue Carol,F,75,Vine Street,United States,3,0,1906,1982,76
+Leslie Caron,F,95,Hollywood Boulevard,Other,1,0,1931,2009,78
+John Carradine,M,82,Hollywood Boulevard,United States,5,0,1906,1960,54
+Leo Carrillo,M,81,Vine Street,United States,1,0,1880,1960,80
+Madeleine Carroll,F,81,Hollywood Boulevard,United Kingdom,1,0,1906,1960,54
+Nancy Carroll,F,61,Vine Street,United States,,0,1903,1960,57
+Walter Catlett,M,71,Vine Street,United States,1,0,1889,1960,71
+Jackie Chan,M,72,Hollywood Boulevard,Other,2,0,1954,2002,48
+Jeff Chandler,M,42,Vine Street,United States,2,0,1918,1960,42
+Lon Chaney,M,47,Hollywood Boulevard,United States,1,0,1883,1960,
+Charles Chaplin,M,88,Hollywood Boulevard,United Kingdom,11,0,1889,1972,83
+Cyd Charisse,F,86,Vine Street,United States,2,0,1922,1960,38
+Charley Chase,M,46,Hollywood Boulevard,United States,,0,1893,1960,
+Chevy Chase,M,83,Hollywood Boulevard,United States,3,0,1943,1993,50
+Ilka Chase,F,77,Hollywood Boulevard,United States,,0,1900,1960,60
+Jessica Chastain,F,49,Hollywood Boulevard,United States,2,1,1977,2025,48
+Ruth Chatterton,F,68,Hollywood Boulevard,United States,,0,1892,1960,68
+Virginia Cherrill,F,88,Vine Street,United States,,0,1908,1960,52
+Morris Chestnut,M,57,Hollywood Boulevard,United States,2,0,1969,2022,53
+Maurice Chevalier,M,83,Vine Street,Other,,0,1888,1960,72
+Ina Claire,F,91,Hollywood Boulevard,United States,,0,1893,1960,67
+Marguerite Clark,F,57,Hollywood Boulevard,United States,,0,1883,1960,
+Ethel Clayton,F,83,Hollywood Boulevard,United States,,0,1882,1960,78
+Montgomery Clift,M,45,Hollywood Boulevard,United States,,0,1920,1960,40
+Glenn Close,F,79,Hollywood Boulevard,United States,1,0,1947,2009,62
+Andy Clyde,M,75,Hollywood Boulevard,United Kingdom,1,0,1892,1960,68
+Charles Coburn,M,84,Hollywood Boulevard,United States,7,1,1877,1960,83
+James Coburn,M,74,Hollywood Boulevard,United States,2,1,1928,1994,66
+Steve Cochran,M,48,Vine Street,United States,1,0,1917,1960,43
+George M. Cohan,M,64,Hollywood Boulevard,United States,4,0,1878,1960,
+Claudette Colbert,F,92,Hollywood Boulevard,Other,,1,1903,1960,57
+Constance Collier,F,77,Hollywood Boulevard,United Kingdom,,0,1878,1960,
+William Collier Jr.,M,84,Hollywood Boulevard,United States,1,0,1902,1960,58
+Ronald Colman,M,67,Hollywood Boulevard,United Kingdom,1,1,1891,1960,
+Betty Compson,F,77,Vine Street,United States,,0,1897,1960,63
+Joyce Compton,F,90,Hollywood Boulevard,United States,,0,1907,1960,53
+Chester Conklin,M,85,Vine Street,United States,,0,1886,1960,74
+Heinie Conklin,M,73,Vine Street,United States,3,0,1886,1960,
+Jack Conway,M,66,Vine Street,Other,,0,1886,1960,
+Jackie Coogan,M,69,Vine Street,United States,4,0,1914,1960,46
+Clyde Cook,M,92,Hollywood Boulevard,Australia,1,0,1891,1960,69
+Donald Cook,M,60,Vine Street,United States,,0,1901,1960,59
+Gary Cooper,M,60,Hollywood Boulevard,United States,1,1,1901,1960,59
+Jackie Cooper,M,88,Vine Street,United States,4,0,1922,1960,38
+Ricardo Cortez,M,77,Vine Street,United States,,0,1899,1960,61
+Dolores Costello,F,75,Vine Street,United States,2,0,1903,1960,57
+Helene Costello,F,50,Vine Street,United States,1,0,1906,1960,
+Lou Costello,M,52,Hollywood Boulevard,United States,4,0,1906,1960,
+Maurice Costello,M,73,Hollywood Boulevard,United States,1,0,1877,1960,
+Kevin Costner,M,71,Hollywood Boulevard,United States,7,0,1955,2003,48
+Joseph Cotten,M,88,Hollywood Boulevard,United States,1,0,1905,1960,55
+Daniel Craig,M,58,Hollywood Boulevard,United Kingdom,2,0,1968,2021,53
+Broderick Crawford,M,74,Hollywood Boulevard,United States,2,1,1911,1960,49
+Joan Crawford,F,73,Vine Street,United States,4,1,1904,1960,56
+Laird Cregar,M,31,Vine Street,United States,,0,1913,1960,
+Richard Crenna,M,76,Hollywood Boulevard,United States,3,0,1926,1988,62
+Laura Hope Crews,F,62,Hollywood Boulevard,United States,,0,1879,1960,
+Donald Crisp,M,91,Vine Street,United Kingdom,,1,1882,1960,78
+Richard Cromwell,M,50,Vine Street,United States,,0,1910,1960,50
+Bing Crosby,M,74,Vine Street,United States,1,1,1903,1960,57
+Scatman Crothers,M,76,Hollywood Boulevard,United States,1,0,1910,1981,71
+Russell Crowe,M,62,Hollywood Boulevard,Other,2,1,1964,2010,46
+Tom Cruise,M,64,Hollywood Boulevard,United States,3,0,1962,1986,24
+Penelope Cruz,F,52,Hollywood Boulevard,Other,2,1,1974,2011,37
+James Cruze,M,58,Hollywood Boulevard,United States,6,0,1884,1960,
+Billy Crystal,M,78,Hollywood Boulevard,United States,2,0,1948,1991,43
+Macaulay Culkin,M,46,Hollywood Boulevard,United States,2,0,1980,2023,43
+Benedict Cumberbatch,M,50,Hollywood Boulevard,United Kingdom,3,0,1976,2022,45
+Constance Cummings,F,95,Hollywood Boulevard,United States,2,0,1910,1960,50
+Irving Cummings,M,70,Hollywood Boulevard,United States,1,0,1888,1960,
+Robert Cummings,M,80,Hollywood Boulevard,United States,7,0,1910,1960,50
+Alan Curtis,M,43,Hollywood Boulevard,United States,,0,1909,1960,
+Jamie Lee Curtis,F,67,Hollywood Boulevard,United States,2,1,1958,1998,40
+Tony Curtis,M,85,Hollywood Boulevard,United States,6,0,1925,1960,35
+John Cusack,M,60,Hollywood Boulevard,United States,,0,1966,2012,46
+Willem Dafoe,M,71,Hollywood Boulevard,United States,1,0,1955,2024,68
+Arlene Dahl,F,96,Vine Street,United States,3,0,1925,1960,35
+Dorothy Dalton,F,78,Vine Street,United States,,0,1893,1960,67
+Matt Damon,M,56,Hollywood Boulevard,Other,3,0,1970,2007,37
+Viola Dana,F,90,Hollywood Boulevard,United States,,0,1897,1960,63
+Dorothy Dandridge,F,42,Hollywood Boulevard,United States,1,0,1922,1983,
+Karl Dane,M,47,Hollywood Boulevard,Other,3,0,1886,1960,
+Bebe Daniels,F,70,Vine Street,United States,2,0,1901,1960,59
+Linda Darnell,F,41,Vine Street,United States,1,0,1923,1960,37
+Jane Darwell,F,87,Hollywood Boulevard,United States,,1,1879,1960,81
+Keith David,M,70,Hollywood Boulevard,United States,3,0,1956,2026,70
+Marion Davies,F,64,Hollywood Boulevard,United States,1,0,1897,1960,63
+Bette Davis,F,81,Hollywood Boulevard,United States,3,1,1908,1960,52
+Joan Davis,F,53,Vine Street,United States,1,0,1907,1960,53
+Viola Davis,F,61,Hollywood Boulevard,United States,1,1,1965,2017,52
+Doris Day,F,97,Hollywood Boulevard,United States,1,0,1922,1960,38
+Laraine Day,F,87,Hollywood Boulevard,United States,5,0,1920,1960,40
+James Dean,M,24,Vine Street,United States,,0,1931,1960,
+Yvonne De Carlo,F,84,Hollywood Boulevard,Canada,2,0,1922,1960,38
+Frances Dee,F,94,Hollywood Boulevard,United States,3,0,1909,1994,85
+Carter DeHaven,M,90,Vine Street,United States,2,0,1886,1960,74
+Gloria DeHaven,F,91,Hollywood Boulevard,Other,4,0,1925,1960,35
+Olivia de Havilland,F,104,Hollywood Boulevard,Other,2,1,1916,1960,44
+Marguerite De La Motte,F,47,Hollywood Boulevard,United States,,0,1902,1960,
+Dolores del Rio,F,78,Vine Street,Other,,0,1904,1960,56
+Dom DeLuise,M,75,Vine Street,United States,1,0,1933,1985,52
+William Demarest,M,91,Hollywood Boulevard,United States,,0,1892,1979,87
+Reginald Denny,M,75,Hollywood Boulevard,United Kingdom,3,0,1891,1960,69
+Johnny Depp,M,63,Hollywood Boulevard,United States,2,0,1963,1999,36
+Eugenio Derbez,M,65,Hollywood Boulevard,Other,4,0,1961,2016,55
+Bruce Dern,M,90,Hollywood Boulevard,United States,2,0,1936,2010,74
+Laura Dern,F,59,Hollywood Boulevard,United States,2,1,1967,2010,43
+Elliott Dexter,M,71,Vine Street,United States,,0,1870,1960,
+Cameron Diaz,F,54,Hollywood Boulevard,Other,3,0,1972,2009,37
+Vin Diesel,M,59,Hollywood Boulevard,,3,0,1967,2013,46
+Marlene Dietrich,F,90,Hollywood Boulevard,Other,1,0,1901,1960,59
+Richard Dix,M,56,Vine Street,United States,4,0,1893,1960,
+Robert Donat,M,53,Hollywood Boulevard,United Kingdom,3,1,1905,1960,
+Marie Doro,F,74,Vine Street,United States,,0,1882,1960,
+Kirk Douglas,M,103,Hollywood Boulevard,United States,1,0,1916,1960,44
+Melvyn Douglas,M,80,Hollywood Boulevard,United States,3,1,1901,1960,59
+Michael Douglas,M,82,Hollywood Boulevard,United States,3,1,1944,2018,74
+Paul Douglas,M,52,Vine Street,United States,4,0,1907,1960,
+Billie Dove,F,94,Hollywood Boulevard,United States,2,0,1903,1960,57
+Frances Drake,F,87,Hollywood Boulevard,United States,,0,1912,1960,48
+Louise Dresser,F,85,Hollywood Boulevard,United States,,0,1878,1960,82
+Marie Dressler,F,65,Vine Street,Canada,1,1,1868,1960,
+Ellen Drew,F,88,Hollywood Boulevard,United States,2,0,1915,1960,45
+Mr. and Mrs. Sidney Drew (Sidney Drew),M,55,Hollywood Boulevard,,,0,1863,1960,
+Mr. and Mrs. Sidney Drew (Gladys Rankin),F,43,Hollywood Boulevard,,,0,1870,1960,
+Mr. and Mrs. Sidney Drew (Lucille McVey),F,35,Hollywood Boulevard,,,0,1890,1960,
+Richard Dreyfuss,M,78,Hollywood Boulevard,United States,3,1,1947,1996,49
+Bobby Driscoll,M,31,Vine Street,United States,3,0,1937,1960,23
+Patty Duke,F,69,Hollywood Boulevard,United States,3,1,1946,2004,58
+Bill Duke,M,83,Hollywood Boulevard,United States,,0,1943,2026,83
+Faye Dunaway,F,85,Hollywood Boulevard,United States,1,1,1941,1996,55
+James Dunn,M,65,Hollywood Boulevard,United States,,1,1901,1960,59
+Irene Dunne,F,91,Hollywood Boulevard,United States,1,0,1898,1960,62
+Mildred Dunnock,F,90,Hollywood Boulevard,United States,1,0,1901,1960,59
+Kirsten Dunst,F,44,Hollywood Boulevard,United States,2,0,1982,2019,37
+Jimmy Durante,M,86,Vine Street,United States,1,0,1893,1960,67
+Deanna Durbin,F,91,Vine Street,Canada,2,0,1921,1960,39
+Charles Durning,M,89,Hollywood Boulevard,United States,3,0,1923,2008,85
+Robert Duvall,M,95,Hollywood Boulevard,United States,,1,1931,2003,72
+Ann Dvorak,F,68,Hollywood Boulevard,United States,,0,1912,1960,48
+Buddy Ebsen,M,95,Vine Street,United States,7,0,1908,1960,52
+Nelson Eddy,M,65,Hollywood Boulevard,United States,,0,1901,1960,59
+Robert Edeson,M,62,Vine Street,United States,,0,1868,1960,
+Zac Efron,M,39,Hollywood Boulevard,United States,,0,1987,2023,36
+Faye Emerson,F,65,Hollywood Boulevard,United States,1,0,1917,1960,43
+Robert Englund,M,79,Hollywood Boulevard,United States,,0,1947,2025,78
+Leon Errol,M,70,Hollywood Boulevard,Australia,,0,1881,1960,
+Madge Evans,F,71,Vine Street,United States,,0,1909,1960,51
+Douglas Fairbanks Jr.,M,90,Hollywood Boulevard,Other,3,0,1909,1960,51
+Douglas Fairbanks,M,56,Hollywood Boulevard,United States,1,0,1883,1960,
+Chris Farley,M,33,Hollywood Boulevard,United States,,0,1964,2005,
+Richard Farnsworth,M,80,Vine Street,United States,2,0,1920,1992,72
+Dustin Farnum,M,55,Hollywood Boulevard,United States,,0,1874,1960,
+William Farnum,M,76,Hollywood Boulevard,United States,5,0,1876,1960,
+Geraldine Farrar,F,85,Vine Street,United States,,0,1882,1960,78
+Charles Farrell,M,90,Hollywood Boulevard,United States,,0,1900,1960,60
+Glenda Farrell,F,66,Hollywood Boulevard,United States,1,0,1904,1960,56
+William Faversham,M,72,Vine Street,United Kingdom,,0,1868,1960,
+Frank Fay,M,69,Hollywood Boulevard,United States,1,0,1891,1960,69
+Alice Faye,F,83,Hollywood Boulevard,United States,2,0,1915,1960,45
+Julia Faye,F,73,Hollywood Boulevard,United States,,0,1892,1960,68
+Louise Fazenda,F,66,Hollywood Boulevard,United States,1,0,1895,1958,63
+Helen Ferguson,F,76,Hollywood Boulevard,United States,,0,1900,1960,60
+Will Ferrell,M,59,Hollywood Boulevard,United States,3,0,1967,2015,48
+Jose Ferrer,M,80,Hollywood Boulevard,Other,6,1,1912,1960,48
+Mel Ferrer,M,90,Hollywood Boulevard,United States,6,0,1917,1960,43
+Stepin Fetchit,M,83,Vine Street,Other,2,0,1902,1960,58
+Sally Field,F,79,Hollywood Boulevard,United States,3,1,1946,2014,68
+W. C. Fields,M,66,Hollywood Boulevard,United States,2,0,1880,1960,
+Flora Finch,F,72,Hollywood Boulevard,United Kingdom,,0,1867,1960,
+Colin Firth,M,66,Hollywood Boulevard,United Kingdom,3,1,1960,2011,51
+Carrie Fisher,F,60,Hollywood Boulevard,United States,1,0,1956,2023,
+Barry Fitzgerald,M,72,Hollywood Boulevard,Other,,1,1888,1960,72
+Geraldine Fitzgerald,F,91,Hollywood Boulevard,Other,2,0,1913,1960,47
+Rhonda Fleming,F,97,Hollywood Boulevard,United States,1,0,1923,1960,37
+Errol Flynn,M,50,Hollywood Boulevard,Australia,4,0,1909,1960,
+Nina Foch,F,84,Hollywood Boulevard,Other,1,0,1924,1960,36
+Henry Fonda,M,77,Vine Street,United States,3,1,1905,1960,55
+Peter Fonda,M,79,Hollywood Boulevard,United States,3,0,1940,2003,63
+Joan Fontaine,F,96,Vine Street,Other,2,1,1917,1960,43
+Glenn Ford,M,90,Hollywood Boulevard,Canada,1,0,1916,1960,44
+Harrison Ford,M,73,Hollywood Boulevard,United States,,0,1884,1960,
+Harrison Ford,M,84,Hollywood Boulevard,United States,5,0,1942,2003,61
+Jodie Foster,F,63,Hollywood Boulevard,United States,2,1,1962,2016,54
+Michael J. Fox,M,65,Hollywood Boulevard,Canada,4,0,1961,2002,41
+Jamie Foxx,M,58,Hollywood Boulevard,United States,2,1,1967,2007,40
+Eddie Foy,M,71,Vine Street,Other,,0,1856,1960,
+Kay Francis,F,63,Hollywood Boulevard,United States,,0,1905,1960,55
+James Franco,M,48,Hollywood Boulevard,United States,,0,1978,2013,35
+William Frawley,M,79,Hollywood Boulevard,United States,,0,1887,1960,73
+Pauline Frederick,F,55,Hollywood Boulevard,United States,,0,1883,1960,
+Morgan Freeman,M,89,Hollywood Boulevard,United States,4,1,1937,2003,66
+Annette Funicello,F,70,Hollywood Boulevard,United States,3,0,1942,1993,51
+Betty Furness,F,78,Vine Street,United States,4,0,1916,1960,44
+Clark Gable,M,59,Vine Street,United States,2,1,1901,1960,59
+Gal Gadot,F,39,Hollywood Boulevard,Other,4,0,1985,2025,39
+Greta Garbo,F,84,Hollywood Boulevard,Other,,0,1905,1960,55
+Andy Garcia,M,70,Hollywood Boulevard,Other,4,0,1956,1995,39
+Ava Gardner,F,67,Vine Street,United States,,0,1922,1960,38
+John Garfield,M,39,Hollywood Boulevard,United States,3,0,1913,1960,
+Judy Garland,F,47,Vine Street,United States,3,0,1922,1960,38
+Jennifer Garner,F,54,Hollywood Boulevard,United States,3,0,1972,2018,46
+Peggy Ann Garner,F,52,Hollywood Boulevard,United States,1,0,1932,1960,28
+Greer Garson,F,91,Vine Street,United Kingdom,,1,1904,1960,56
+Janet Gaynor,F,77,Hollywood Boulevard,United States,1,1,1906,1960,54
+Mitzi Gaynor,F,93,Hollywood Boulevard,United States,,0,1931,1960,29
+Giancarlo Giannini,M,84,Hollywood Boulevard,Other,4,0,1942,2023,80
+Hoot Gibson,M,70,Vine Street,United States,1,0,1892,1960,68
+Billy Gilbert,M,77,Hollywood Boulevard,United States,,0,1894,1960,66
+John Gilbert,M,36,Vine Street,United States,2,0,1899,1960,
+Dorothy Gish,F,70,Hollywood Boulevard,United States,,0,1898,1960,62
+Lillian Gish,F,99,Vine Street,United States,,0,1893,1960,67
+Louise Glaum,F,82,Hollywood Boulevard,United States,,0,1888,1960,72
+James Gleason,M,76,Hollywood Boulevard,United States,1,0,1882,1960,
+Paulette Goddard,F,79,Vine Street,United States,,0,1910,1960,50
+Whoopi Goldberg,F,70,Hollywood Boulevard,United States,1,1,1955,2001,46
+Jeff Goldblum,M,74,Hollywood Boulevard,Other,2,0,1952,2018,65
+Pedro Gonzalez Gonzalez,M,80,Vine Street,United States,3,0,1925,2008,
+Cuba Gooding Jr.,M,58,Hollywood Boulevard,United States,3,1,1968,2002,34
+John Goodman,M,74,Hollywood Boulevard,United States,1,0,1952,2017,65
+Louis Gossett Jr.,M,87,Hollywood Boulevard,United States,2,1,1936,1992,56
+Jetta Goudal,F,93,Hollywood Boulevard,Other,,0,1891,1960,69
+Betty Grable,F,56,Hollywood Boulevard,United States,2,0,1916,1960,44
+Gloria Grahame,F,57,Hollywood Boulevard,United States,4,1,1923,1960,37
+Cary Grant,M,82,Vine Street,United Kingdom,1,0,1904,1960,56
+Bonita Granville,F,65,Hollywood Boulevard,United States,2,0,1923,1960,37
+Gilda Gray,F,58,Hollywood Boulevard,Other,1,0,1901,1960,
+Kathryn Grayson,F,88,Vine Street,United States,1,0,1922,1960,38
+Mitzi Green,F,48,Hollywood Boulevard,United States,4,0,1920,1960,40
+Jane Greer,F,76,Vine Street,United States,3,0,1924,1960,36
+Corinne Griffith,F,84,Vine Street,United States,2,0,1894,1960,66
+Raymond Griffith,M,67,Hollywood Boulevard,United States,1,0,1890,1960,
+Texas Guinan,F,49,Vine Street,United States,,0,1884,1960,
+Alec Guinness,M,86,Vine Street,United Kingdom,1,1,1914,1960,46
+Steve Guttenberg,M,68,Hollywood Boulevard,United States,,0,1958,2011,53
+Edmund Gwenn,M,81,Vine Street,United Kingdom,,1,1877,1960,
+William Haines,M,73,Hollywood Boulevard,United States,,0,1900,1960,60
+Alan Hale,M,57,Hollywood Boulevard,United States,3,0,1892,1960,
+Creighton Hale,M,83,Hollywood Boulevard,Other,2,0,1882,1960,78
+Monte Hale,M,89,Hollywood Boulevard,United States,,0,1919,2004,85
+Jon Hall,M,64,Vine Street,United States,,0,1915,1960,45
+Mark Hamill,M,75,Hollywood Boulevard,United States,3,0,1951,2018,66
+George Hamilton,M,87,Hollywood Boulevard,United States,2,0,1939,2009,70
+Lloyd Hamilton,M,43,Hollywood Boulevard,United States,,0,1891,1960,
+Neil Hamilton,M,85,Hollywood Boulevard,United States,1,0,1899,1960,61
+Tom Hanks,M,70,Hollywood Boulevard,United States,4,1,1956,1992,36
+Ann Harding,F,79,Hollywood Boulevard,United States,1,0,1902,1960,58
+Sir Cedric Hardwicke,M,71,Hollywood Boulevard,United Kingdom,2,0,1893,1960,67
+Oliver Hardy,M,65,Vine Street,United States,,0,1892,1960,
+Jean Harlow,F,26,Hollywood Boulevard,United States,,0,1911,1960,
+Ed Harris,M,75,Hollywood Boulevard,United States,1,0,1950,2015,65
+Mildred Harris,F,42,Hollywood Boulevard,United States,2,0,1901,1960,
+Rex Harrison,M,82,Hollywood Boulevard,United Kingdom,0,1,1908,1960,52
+William S. Hart,M,81,Hollywood Boulevard,United States,1,0,1864,1960,
+Signe Hasso,F,86,Hollywood Boulevard,Other,1,0,1915,1994,79
+Anne Hathaway,F,43,Hollywood Boulevard,United States,2,1,1982,2019,36
+Raymond Hatton,M,84,Vine Street,United States,,0,1887,1960,73
+June Haver,F,79,Vine Street,United States,2,0,1926,1960,34
+June Havoc,F,97,Hollywood Boulevard,Canada,1,0,1912,1960,48
+Goldie Hawn,F,80,Hollywood Boulevard,United States,1,1,1945,2017,72
+Sessue Hayakawa,M,84,Vine Street,Other,3,0,1889,1960,71
+Salma Hayek,F,60,Hollywood Boulevard,Other,1,0,1966,2021,55
+Helen Hayes,F,92,Hollywood Boulevard,United States,1,1,1900,1960,60
+Louis Hayward,M,75,Vine Street,Other,1,0,1909,1960,51
+Susan Hayward,F,57,Hollywood Boulevard,United States,2,1,1917,1960,43
+Rita Hayworth,F,68,Vine Street,United States,2,0,1918,1960,42
+Eileen Heckart,F,82,Hollywood Boulevard,United States,3,1,1919,1960,41
+Tippi Hedren,F,96,Hollywood Boulevard,United States,1,0,1930,2003,73
+Van Heflin,M,62,Hollywood Boulevard,United States,3,1,1908,1960,52
+Chris Hemsworth,M,40,Hollywood Boulevard,Australia,3,0,1983,2024,40
+Sonja Henie,F,57,Hollywood Boulevard,Other,,0,1912,1960,48
+Paul Henreid,M,84,Hollywood Boulevard,Other,2,0,1908,1960,52
+Taraji P. Henson,F,56,Hollywood Boulevard,United States,1,0,1970,2019,48
+Audrey Hepburn,F,63,Vine Street,Other,2,1,1929,1960,31
+Katharine Hepburn,F,96,Hollywood Boulevard,United States,,1,1907,1960,53
+Hugh Herbert,M,67,Hollywood Boulevard,United States,,0,1884,1960,
+Jean Hersholt,M,69,Hollywood Boulevard,Other,1,0,1886,1960,
+Irene Hervey,F,89,Hollywood Boulevard,United States,2,0,1909,1960,51
+Charlton Heston,M,84,Vine Street,United States,2,1,1923,1960,37
+William Holden,M,63,Vine Street,United States,3,1,1918,1960,42
+Judy Holliday,F,43,Hollywood Boulevard,United States,1,1,1921,1960,39
+Celeste Holm,F,95,Vine Street,United States,2,1,1917,1960,43
+Phillips Holmes,M,35,Hollywood Boulevard,United States,,0,1907,1960,
+Taylor Holmes,M,81,Hollywood Boulevard,United States,3,0,1878,1960,
+Jack Holt,M,62,Hollywood Boulevard,United States,3,0,1888,1960,
+James Hong,M,97,Hollywood Boulevard,United States,3,0,1929,2022,93
+Bob Hope,M,100,Hollywood Boulevard,United Kingdom,4,0,1903,1960,57
+Anthony Hopkins,M,88,Hollywood Boulevard,United Kingdom,1,1,1937,2003,66
+Miriam Hopkins,F,69,Vine Street,United States,1,0,1902,1960,58
+Dennis Hopper,M,74,Hollywood Boulevard,United States,4,0,1936,2010,74
+Hedda Hopper,F,80,Hollywood Boulevard,United States,1,0,1885,1960,75
+Lena Horne,F,92,Hollywood Boulevard,United States,2,0,1917,1960,43
+Edward Everett Horton,M,84,Hollywood Boulevard,United States,,0,1886,1960,74
+Leslie Howard,M,50,Hollywood Boulevard,United Kingdom,2,0,1893,1960,
+Ron Howard,M,72,Hollywood Boulevard,United States,4,0,1954,2015,61
+Rochelle Hudson,F,55,Hollywood Boulevard,United States,,0,1916,1960,44
+Rock Hudson,M,59,Hollywood Boulevard,United States,,0,1925,1960,35
+Josephine Hull,F,80,Hollywood Boulevard,United States,,1,1877,1960,
+Holly Hunter,F,68,Hollywood Boulevard,United States,2,1,1958,2008,50
+Kim Hunter,F,79,Vine Street,United States,2,1,1922,1960,38
+Ruth Hussey,F,93,Vine Street,United States,3,0,1911,1960,49
+Anjelica Huston,F,75,Hollywood Boulevard,United States,,1,1951,2010,59
+John Huston,M,81,Vine Street,United States,5,0,1906,1960,54
+Walter Huston,M,67,Hollywood Boulevard,Canada,1,1,1883,1960,
+Betty Hutton,F,86,Hollywood Boulevard,United States,3,0,1921,1960,39
+Jill Ireland,F,54,Hollywood Boulevard,United Kingdom,5,0,1936,1989,53
+Hugh Jackman,M,58,Hollywood Boulevard,Australia,2,0,1968,2012,44
+Samuel L. Jackson,M,77,Hollywood Boulevard,United States,1,0,1948,2000,52
+Dean Jagger,M,87,Vine Street,United States,3,1,1903,1960,57
+Emil Jannings,M,65,Vine Street,Other,1,1,1884,1960,
+Isabel Jewell,F,64,Vine Street,United States,,0,1907,1960,53
+Scarlett Johansson,F,41,Hollywood Boulevard,United States,2,0,1984,2012,28
+Ben Johnson,M,77,Hollywood Boulevard,United States,,1,1918,1994,76
+Dwayne Johnson,M,54,Hollywood Boulevard,United States,3,0,1972,2017,45
+Van Johnson,M,92,Hollywood Boulevard,United States,1,0,1916,1960,44
+Al Jolson,M,64,Hollywood Boulevard,Other,3,0,1886,1960,
+Buck Jones,M,50,Hollywood Boulevard,United States,1,0,1891,1960,
+Jennifer Jones,F,90,Hollywood Boulevard,United States,3,1,1919,1960,41
+Shirley Jones,F,92,Vine Street,United States,3,1,1934,1986,52
+Tommy Lee Jones,M,80,Hollywood Boulevard,United States,2,1,1946,1994,48
+Michael B. Jordan,M,39,Hollywood Boulevard,United States,,1,1987,2023,36
+Victor Jory,M,79,Hollywood Boulevard,Canada,2,0,1902,1960,58
+Leatrice Joy,F,88,Hollywood Boulevard,United States,1,0,1896,1960,64
+Katy Jurado,F,78,Hollywood Boulevard,Other,2,0,1924,1994,70
+Boris Karloff,M,81,Vine Street,United Kingdom,1,0,1887,1960,73
+Danny Kaye,M,76,Hollywood Boulevard,Other,1,0,1911,1960,49
+Buster Keaton,M,70,Hollywood Boulevard,United States,2,0,1895,1960,65
+Michael Keaton,M,75,Hollywood Boulevard,United States,1,0,1951,2016,65
+Howard Keel,M,85,Hollywood Boulevard,United States,4,0,1919,1960,41
+Ruby Keeler,F,83,Hollywood Boulevard,Canada,5,0,1909,1960,51
+Annette Kellerman,F,88,Hollywood Boulevard,Australia,,0,1887,1960,73
+De Forest Kelley,M,79,Hollywood Boulevard,United States,,0,1920,1991,71
+Gene Kelly,M,83,Hollywood Boulevard,United States,3,0,1912,1960,48
+Grace Kelly,F,52,Hollywood Boulevard,United States,,1,1929,1960,31
+Nancy Kelly,F,73,Hollywood Boulevard,United States,1,0,1921,1960,39
+Patsy Kelly,F,71,Hollywood Boulevard,United States,,0,1910,1960,50
+Arthur Kennedy,M,75,Hollywood Boulevard,United States,2,0,1914,1960,46
+Edgar Kennedy,M,58,Hollywood Boulevard,United States,,0,1890,1960,
+George Kennedy,M,91,Hollywood Boulevard,United States,6,1,1925,1991,66
+Madge Kennedy,F,96,Vine Street,United States,,0,1891,1960,69
+Deborah Kerr,F,86,Vine Street,United Kingdom,2,0,1921,1960,39
+J. M. Kerrigan,M,79,Hollywood Boulevard,Other,,0,1884,1960,76
+Norman Kerry,M,61,Hollywood Boulevard,United States,,0,1894,1960,
+Nicole Kidman,F,59,Hollywood Boulevard,Other,4,1,1967,2003,35
+Ben Kingsley,M,82,Hollywood Boulevard,United Kingdom,4,1,1943,2010,67
+Kevin Kline,M,79,Hollywood Boulevard,United States,1,1,1947,2004,57
+June Knight,F,74,Hollywood Boulevard,United States,,0,1913,1960,47
+Theodore Kosloff,M,74,Vine Street,Other,1,0,1882,1960,
+Kurt Kreuger,M,89,Vine Street,Other,,0,1916,1960,44
+Otto Kruger,M,89,Vine Street,United States,1,0,1885,1960,75
+Barbara La Marr,F,29,Vine Street,United States,1,0,1896,1960,
+Laura La Plante,F,91,Hollywood Boulevard,United States,2,0,1904,1960,56
+Rod La Rocque,M,70,Vine Street,United States,,0,1898,1960,62
+Alan Ladd,M,50,Vine Street,United States,3,0,1913,1960,47
+Diane Ladd,F,90,Hollywood Boulevard,United States,2,0,1935,2010,75
+Alice Lake,F,72,Vine Street,United States,,0,1895,1960,65
+Veronica Lake,F,50,Hollywood Boulevard,United States,4,0,1922,1960,38
+Hedy Lamarr,F,85,Hollywood Boulevard,Other,3,0,1914,1960,46
+Dorothy Lamour,F,81,Hollywood Boulevard,United States,2,0,1914,1960,46
+Burt Lancaster,M,80,Hollywood Boulevard,United States,5,1,1913,1958,45
+Martin Landau,M,89,Hollywood Boulevard,United States,1,1,1928,2001,73
+Elissa Landi,F,43,Vine Street,Other,1,0,1904,1960,
+Carole Landis,F,29,Vine Street,United States,,0,1919,1960,
+Nathan Lane,M,70,Hollywood Boulevard,United States,,0,1956,2005,49
+Harry Langdon,M,60,Hollywood Boulevard,United States,1,0,1884,1960,
+Frances Langford,F,92,Vine Street,United States,,0,1913,1960,47
+Angela Lansbury,F,96,Hollywood Boulevard,United Kingdom,2,0,1925,1960,35
+Mario Lanza,M,38,Hollywood Boulevard,Other,4,0,1921,1960,
+Queen Latifah,F,56,Hollywood Boulevard,United States,1,0,1970,2006,36
+Charles Laughton,M,63,Hollywood Boulevard,United Kingdom,,1,1899,1960,61
+Stan Laurel,M,74,Hollywood Boulevard,United Kingdom,2,0,1890,1960,70
+Jude Law,M,51,Hollywood Boulevard,United Kingdom,7,0,1972,2024,51
+Francis Lederer,M,100,Hollywood Boulevard,Other,,0,1899,1960,61
+Anna Lee,F,91,Hollywood Boulevard,United Kingdom,5,0,1913,1993,80
+Bruce Lee,M,32,Hollywood Boulevard,United States,1,0,1940,1993,
+Gypsy Rose Lee,F,59,Hollywood Boulevard,United States,1,0,1911,1960,49
+Lila Lee,F,72,Vine Street,United States,1,0,1901,1960,59
+Janet Leigh,F,77,Vine Street,United States,1,0,1927,1960,33
+Vivien Leigh,F,53,Hollywood Boulevard,Other,1,1,1913,1960,47
+Jack Lemmon,M,76,Hollywood Boulevard,United States,2,1,1925,1960,35
+Jerry Lewis,M,91,Hollywood Boulevard,United States,8,0,1926,1960,34
+Beatrice Lillie,F,94,Hollywood Boulevard,Canada,6,0,1894,1960,66
+Elmo Lincoln,M,63,Hollywood Boulevard,United States,,0,1889,1960,
+Eric Linden,M,84,Hollywood Boulevard,United States,3,0,1909,1960,51
+Margaret Lindsay,F,70,Hollywood Boulevard,United States,,0,1910,1960,50
+Ray Liotta,M,67,Hollywood Boulevard,United States,1,0,1954,2023,
+Cleavon Little,M,53,Hollywood Boulevard,United States,1,0,1939,1994,
+Harold Lloyd,M,77,Vine Street,United States,3,0,1893,1960,67
+Gene Lockhart,M,65,Hollywood Boulevard,Canada,1,0,1891,1960,
+June Lockhart,F,100,Hollywood Boulevard,United States,2,0,1925,1960,35
+Kathleen Lockhart,F,83,Hollywood Boulevard,United Kingdom,1,0,1894,1960,66
+Gina Lollobrigida,F,95,Hollywood Boulevard,Other,1,0,1927,2018,90
+Carole Lombard,F,33,Hollywood Boulevard,United States,,0,1908,1960,
+Sophia Loren,F,92,Hollywood Boulevard,Other,1,1,1934,1994,60
+Peter Lorre,M,59,Hollywood Boulevard,Other,1,0,1904,1960,56
+Anita Louise,F,55,Hollywood Boulevard,United States,2,0,1915,1960,45
+Bessie Love,F,87,Hollywood Boulevard,United States,1,0,1898,1960,62
+Edmund Lowe,M,81,Hollywood Boulevard,United States,,0,1890,1960,70
+Myrna Loy,F,88,Hollywood Boulevard,United States,,0,1905,1960,55
+Lisa Lu,F,98,Vine Street,Other,3,0,1927,2025,98
+Ludacris,M,49,Hollywood Boulevard,United States,4,0,1977,2023,45
+Bela Lugosi,M,73,Hollywood Boulevard,Other,1,0,1882,1960,
+Paul Lukas,M,77,Hollywood Boulevard,Other,,1,1894,1960,66
+Keye Luke,M,86,Hollywood Boulevard,Other,1,0,1904,1990,86
+Ida Lupino,F,77,Hollywood Boulevard,United Kingdom,1,0,1918,1960,42
+Diana Lynn,F,45,Vine Street,United States,4,0,1926,1960,34
+Ben Lyon,M,78,Vine Street,United States,2,0,1901,1960,59
+Bert Lytell,M,69,Hollywood Boulevard,Other,,0,1885,1960,
+Jeanette MacDonald,F,61,Hollywood Boulevard,United States,,0,1903,1960,57
+Katherine MacDonald,F,74,Hollywood Boulevard,United States,2,0,1881,1960,
+Ali MacGraw,F,87,Hollywood Boulevard,,1,0,1939,2021,81
+Helen Mack,F,72,Hollywood Boulevard,United States,,0,1913,1960,47
+Shirley MacLaine,F,92,Vine Street,United States,1,1,1934,1960,26
+Fred MacMurray,M,83,Hollywood Boulevard,United States,4,0,1908,1960,52
+Jeanie MacPherson,F,59,Hollywood Boulevard,United States,,0,1887,1960,
+William H. Macy,M,76,Hollywood Boulevard,United States,2,0,1950,2012,62
+Anna Magnani,F,65,Hollywood Boulevard,Other,1,1,1908,1960,52
+Mako,M,72,Hollywood Boulevard,Other,2,0,1933,1994,61
+Karl Malden,M,97,Hollywood Boulevard,United States,2,1,1912,1960,48
+Dorothy Malone,F,93,Vine Street,United States,2,1,1924,1960,36
+Hank Mann,M,84,Hollywood Boulevard,Other,,0,1887,1960,73
+Jayne Mansfield,F,34,Hollywood Boulevard,United States,5,0,1933,1960,27
+Fredric March,M,77,Vine Street,United States,2,1,1897,1960,63
+Mae Marsh,F,73,Vine Street,United States,4,0,1894,1960,66
+Herbert Marshall,M,75,Hollywood Boulevard,United Kingdom,2,0,1890,1960,70
+Dean Martin,M,78,Hollywood Boulevard,United States,8,0,1917,1960,43
+Marion Martin,F,76,Hollywood Boulevard,United States,,0,1909,1960,51
+Tony Martin,M,98,Hollywood Boulevard,United States,,0,1913,1960,47
+Ilona Massey,F,64,Vine Street,Other,,0,1910,1960,50
+Raymond Massey,M,86,Vine Street,Canada,3,0,1896,1960,64
+Marlee Matlin,F,61,Hollywood Boulevard,United States,4,1,1965,2009,44
+Walter Matthau,M,79,Hollywood Boulevard,United States,3,1,1920,1982,62
+Victor Mature,M,86,Hollywood Boulevard,United States,1,0,1913,1960,47
+Ken Maynard,M,77,Hollywood Boulevard,United States,,0,1895,1960,65
+Paul Mazursky,M,84,Hollywood Boulevard,United States,2,0,1930,2013,83
+May McAvoy,F,84,Vine Street,United States,1,0,1899,1960,61
+Rachel McAdams,F,47,Hollywood Boulevard,Canada,2,0,1978,2026,47
+Mercedes McCambridge,F,87,Vine Street,United States,1,1,1916,1960,44
+Melissa McCarthy,F,56,Hollywood Boulevard,United States,2,0,1970,2015,45
+Matthew McConaughey,M,56,Hollywood Boulevard,United States,3,1,1969,2014,45
+Patty McCormack,F,81,Hollywood Boulevard,United States,2,0,1945,1960,15
+Tim McCoy,M,86,Vine Street,United States,5,0,1891,1960,69
+Joel McCrea,M,84,Hollywood Boulevard,United States,3,0,1905,1960,55
+Hattie McDaniel,F,59,Vine Street,United States,,1,1893,1960,
+Malcolm McDowell,M,83,Hollywood Boulevard,United Kingdom,5,0,1943,2012,69
+George McFarland,M,64,Hollywood Boulevard,United States,3,0,1928,1994,
+Ewan McGregor,M,54,Hollywood Boulevard,United Kingdom,5,0,1971,2024,53
+Dorothy McGuire,F,85,Hollywood Boulevard,United States,2,0,1916,1960,44
+Victor McLaglen,M,72,Vine Street,Other,3,1,1886,1960,
+Steve McQueen,M,50,Hollywood Boulevard,United States,2,0,1930,1986,
+Donald Meek,M,68,Vine Street,United Kingdom,1,0,1878,1960,
+George Meeker,M,80,Hollywood Boulevard,,,0,1904,1960,56
+Chris Meledandri,M,67,Hollywood Boulevard,United States,2,0,1959,2026,67
+Thomas Meighan,M,57,Vine Street,United States,,0,1879,1960,
+Adolphe Menjou,M,73,Hollywood Boulevard,United States,,0,1890,1960,70
+Burgess Meredith,M,89,Hollywood Boulevard,United States,2,0,1907,1987,80
+Una Merkel,F,82,Hollywood Boulevard,United States,,0,1903,1960,57
+Ethel Merman,F,76,Hollywood Boulevard,United States,2,0,1908,1960,52
+Toshiro Mifune,M,77,Hollywood Boulevard,Other,3,0,1920,2016,
+Ray Milland,M,79,Vine Street,United Kingdom,2,1,1907,1960,53
+Ann Miller,F,80,Hollywood Boulevard,United States,1,0,1923,1960,37
+Mary Miles Minter,F,82,Vine Street,United States,,0,1902,1960,58
+Carmen Miranda,F,46,Hollywood Boulevard,Other,,0,1909,1960,
+Helen Mirren,F,81,Hollywood Boulevard,United Kingdom,,1,1945,2013,68
+Thomas Mitchell,M,70,Vine Street,United States,,1,1892,1960,68
+Robert Mitchum,M,79,Hollywood Boulevard,United States,3,0,1917,1984,67
+Tom Mix,M,60,Vine Street,United States,2,0,1880,1960,
+Marilyn Monroe,F,36,Hollywood Boulevard,United States,,0,1926,1960,34
+Robert Montgomery,M,77,Hollywood Boulevard,United States,3,0,1904,1960,56
+Colleen Moore,F,88,Vine Street,United States,,0,1899,1960,61
+Constance Moore,F,84,Hollywood Boulevard,Other,2,0,1921,1960,39
+Dudley Moore,M,66,Hollywood Boulevard,United Kingdom,2,0,1935,1987,52
+Grace Moore,F,48,Hollywood Boulevard,,,0,1898,1960,
+Juanita Moore,F,99,Hollywood Boulevard,United States,,0,1914,2024,
+Julianne Moore,F,65,Hollywood Boulevard,United States,2,1,1960,2013,53
+Matt Moore,M,72,Hollywood Boulevard,Other,,0,1888,1960,72
+Owen Moore,M,52,Hollywood Boulevard,Other,,0,1886,1960,
+Roger Moore,M,89,Hollywood Boulevard,United Kingdom,3,0,1927,2007,80
+Terry Moore,F,97,Hollywood Boulevard,United States,2,0,1929,1994,65
+Tom Moore,M,71,Vine Street,United Kingdom,2,0,1883,1960,
+Victor Moore,M,86,Hollywood Boulevard,United States,,0,1876,1960,84
+Agnes Moorehead,F,73,Vine Street,United States,,0,1900,1960,60
+Polly Moran,F,68,Hollywood Boulevard,United States,1,0,1883,1960,
+Antonio Moreno,M,79,Hollywood Boulevard,Other,,0,1887,1960,73
+Rita Moreno,F,94,Hollywood Boulevard,Other,1,1,1931,1995,64
+Frank Morgan,M,59,Vine Street,United States,1,0,1890,1960,
+Michèle Morgan,F,96,Vine Street,Other,1,0,1920,1960,40
+Ralph Morgan,M,72,Vine Street,United States,1,0,1883,1960,
+Pat Morita,M,73,Hollywood Boulevard,United States,3,0,1932,1994,62
+Jack Mulhall,M,91,Vine Street,Other,,0,1887,1960,73
+Paul Muni,M,71,Hollywood Boulevard,United Kingdom,,1,1895,1960,65
+Ona Munson,F,51,Hollywood Boulevard,United States,,0,1903,1960,
+Audie Murphy,M,45,Vine Street,United States,2,0,1925,1960,35
+Eddie Murphy,M,65,Hollywood Boulevard,United States,10,0,1961,1996,35
+George Murphy,M,89,Vine Street,United States,2,0,1902,1960,58
+Charlie Murray,M,69,Vine Street,Other,,0,1872,1960,
+Don Murray,M,94,Hollywood Boulevard,United States,5,0,1929,1960,31
+Mae Murray,F,79,Hollywood Boulevard,United States,1,0,1885,1960,75
+Carmel Myers,F,81,Vine Street,United States,3,0,1899,1960,61
+Mike Myers,M,63,Hollywood Boulevard,Canada,3,0,1963,2002,39
+Conrad Nagel,M,72,Vine Street,United States,,0,1897,1960,63
+Nita Naldi,F,66,Hollywood Boulevard,United States,,0,1894,1960,66
+Alla Nazimova,F,66,Hollywood Boulevard,Other,,0,1879,1960,
+Patricia Neal,F,84,Hollywood Boulevard,United States,0,1,1926,2005,79
+Franco Nero,M,84,Vine Street,Other,2,0,1941,2026,84
+Pola Negri,F,90,Hollywood Boulevard,Other,,0,1897,1960,63
+Gene Nelson,M,76,Hollywood Boulevard,United States,,0,1920,1990,70
+Paul Newman,M,83,Hollywood Boulevard,United States,6,1,1925,1994,69
+Jack Nicholson,M,89,Hollywood Boulevard,United States,6,1,1937,1996,59
+Leslie Nielsen,M,84,Hollywood Boulevard,Canada,2,0,1926,1988,62
+Anna Q. Nilsson,F,83,Hollywood Boulevard,Other,,0,1890,1960,70
+Leonard Nimoy,M,83,Hollywood Boulevard,United States,1,0,1931,1985,54
+David Niven,M,73,Hollywood Boulevard,United Kingdom,4,1,1910,1960,50
+Marian Nixon,F,78,Vine Street,United States,4,0,1904,1960,56
+Nick Nolte,M,85,Hollywood Boulevard,United States,2,0,1941,2017,76
+Mabel Normand,F,35,Hollywood Boulevard,United States,,0,1894,1960,
+Chuck Norris,M,86,Hollywood Boulevard,Other,5,0,1940,1989,49
+Kim Novak,F,93,Hollywood Boulevard,United States,,0,1933,1960,27
+Ramon Novarro,M,69,Hollywood Boulevard,Other,,0,1899,1960,61
+Dave O'Brien,M,57,Hollywood Boulevard,United States,5,0,1912,1960,48
+Edmond O'Brien,M,69,Vine Street,United States,3,1,1915,1960,45
+Eugene O'Brien,M,85,Vine Street,Other,,0,1880,1960,80
+George O'Brien,M,86,Hollywood Boulevard,United States,3,0,1899,1960,61
+Margaret O'Brien,F,89,Hollywood Boulevard,United States,1,0,1937,1960,23
+Pat O'Brien,M,83,Vine Street,United States,4,0,1899,1960,61
+Donald O'Connor,M,78,Vine Street,United States,4,0,1925,1960,35
+Molly O'Day,F,87,Vine Street,United States,4,0,1909,1960,49
+George O'Hanlon,M,76,Hollywood Boulevard,Other,2,0,1912,1960,48
+Maureen O'Hara,F,95,Hollywood Boulevard,Other,1,0,1920,1960,40
+Ryan O'Neal,M,82,Hollywood Boulevard,United States,4,0,1941,2021,79
+Henry O'Neill,M,69,Hollywood Boulevard,United States,1,0,1891,1960,69
+Maureen O'Sullivan,F,87,Hollywood Boulevard,Other,7,0,1911,1991,80
+Jack Oakie,M,74,Hollywood Boulevard,United States,,0,1903,1960,57
+Merle Oberon,F,68,Hollywood Boulevard,Other,2,0,1911,1960,49
+Edna May Oliver,F,59,Vine Street,United States,,0,1883,1960,
+Laurence Olivier,M,82,Hollywood Boulevard,United Kingdom,4,1,1907,1960,53
+Edward James Olmos,M,79,Hollywood Boulevard,United States,6,0,1947,1992,45
+Anita Page,F,98,Hollywood Boulevard,United States,2,0,1910,1960,50
+Janis Paige,F,101,Hollywood Boulevard,United States,,0,1922,1960,38
+Eugene Pallette,M,65,Hollywood Boulevard,United States,,0,1889,1960,
+Gwyneth Paltrow,F,54,Hollywood Boulevard,United States,2,1,1972,2010,38
+Franklin Pangborn,M,69,Vine Street,United States,,0,1889,1960,
+Eleanor Parker,F,91,Hollywood Boulevard,United States,4,0,1922,1960,38
+Jean Parker,F,90,Hollywood Boulevard,United States,1,0,1915,1960,45
+Helen Parrish,F,34,Hollywood Boulevard,United States,2,0,1924,1960,
+Katina Paxinou,F,72,Vine Street,Other,2,1,1900,1960,60
+John Payne,M,77,Hollywood Boulevard,United States,3,0,1912,1960,48
+Gregory Peck,M,87,Hollywood Boulevard,United States,5,1,1916,1960,44
+George Peppard,M,65,Hollywood Boulevard,United States,3,0,1928,1985,57
+Anthony Perkins,M,60,Hollywood Boulevard,United States,1,0,1932,1960,28
+Jack Perrin,M,71,Vine Street,United States,1,0,1896,1960,64
+House Peters,M,87,Hollywood Boulevard,United Kingdom,,0,1880,1960,80
+Susan Peters,F,31,Vine Street,United States,1,0,1921,1960,
+Olga Petrova,F,93,Hollywood Boulevard,Other,,0,1884,1960,76
+Michelle Pfeiffer,F,68,Hollywood Boulevard,United States,2,0,1958,2007,49
+Dorothy Phillips,F,90,Hollywood Boulevard,United States,,0,1889,1960,71
+Jack Pickford,M,36,Vine Street,Canada,,0,1896,1960,
+Mary Pickford,F,87,Hollywood Boulevard,Canada,2,1,1892,1960,68
+Walter Pidgeon,M,87,Hollywood Boulevard,Canada,1,0,1897,1960,63
+ZaSu Pitts,F,69,Hollywood Boulevard,United States,2,0,1894,1960,66
+Sidney Poitier,M,94,Hollywood Boulevard,United States,6,1,1927,1994,67
+Snub Pollard,M,72,Hollywood Boulevard,Australia,,0,1889,1960,71
+David Powell,M,41,Vine Street,United Kingdom,,0,1883,1960,
+Dick Powell,M,58,Hollywood Boulevard,United States,4,0,1904,1960,56
+Eleanor Powell,F,69,Vine Street,United States,1,0,1912,1984,
+Jane Powell,F,92,Hollywood Boulevard,United States,3,0,1929,1960,31
+William Powell,M,91,Vine Street,United States,1,0,1892,1960,68
+Tyrone Power,M,44,Hollywood Boulevard,United States,1,0,1914,1960,
+Chris Pratt,M,47,Hollywood Boulevard,United States,4,0,1979,2017,38
+Marie Prevost,F,40,Hollywood Boulevard,Canada,,0,1896,1960,
+Vincent Price,M,82,Hollywood Boulevard,United States,1,0,1911,1960,49
+Aileen Pringle,F,94,Hollywood Boulevard,United States,,0,1895,1960,65
+Richard Pryor,M,65,Hollywood Boulevard,United States,7,0,1940,1993,53
+Denver Pyle,M,77,Hollywood Boulevard,United States,2,0,1920,1997,77
+Dennis Quaid,M,72,Hollywood Boulevard,United States,3,0,1954,2005,51
+Randy Quaid,M,76,Hollywood Boulevard,United States,1,0,1950,2003,53
+Anthony Quinn,M,86,Hollywood Boulevard,Other,12,1,1915,1960,45
+Daniel Radcliffe,M,37,Hollywood Boulevard,United Kingdom,1,0,1989,2015,26
+George Raft,M,79,Hollywood Boulevard,United States,,0,1901,1960,59
+Luise Rainer,F,104,Hollywood Boulevard,Other,1,1,1910,1960,50
+Ella Raines,F,67,Hollywood Boulevard,United States,2,0,1920,1960,40
+Claude Rains,M,77,Hollywood Boulevard,United Kingdom,1,0,1889,1960,71
+Esther Ralston,F,91,Hollywood Boulevard,United States,3,0,1902,1960,58
+Vera Ralston,F,83,Vine Street,Other,,0,1919,1960,41
+Marjorie Rambeau,F,80,Hollywood Boulevard,United States,,0,1889,1960,71
+Basil Rathbone,M,75,Hollywood Boulevard,Other,2,0,1892,1960,68
+Gregory Ratoff,M,67,Hollywood Boulevard,Other,,0,1893,1960,67
+Herbert Rawlinson,M,67,Hollywood Boulevard,United Kingdom,,0,1885,1960,
+Charles Ray,M,52,Hollywood Boulevard,United States,,0,1891,1960,
+Martha Raye,F,78,Hollywood Boulevard,United States,1,0,1916,1960,44
+Gene Raymond,M,89,Hollywood Boulevard,United States,,0,1908,1960,52
+Donna Reed,F,64,Vine Street,United States,4,1,1921,1960,39
+Christopher Reeve,M,52,Hollywood Boulevard,United States,1,0,1952,1997,45
+Keanu Reeves,M,62,Hollywood Boulevard,Other,1,0,1964,2005,41
+Wallace Reid,M,31,Hollywood Boulevard,United States,2,0,1891,1960,
+Rob Reiner,M,78,Hollywood Boulevard,United States,4,0,1947,1999,52
+Lee Remick,F,55,Hollywood Boulevard,United States,2,0,1935,1991,55
+Burt Reynolds,M,82,Hollywood Boulevard,United States,1,0,1936,1978,42
+Debbie Reynolds,F,84,Hollywood Boulevard,United States,1,0,1932,1960,28
+Ryan Reynolds,M,50,Hollywood Boulevard,Canada,4,0,1976,2016,40
+Irene Rich,F,96,Hollywood Boulevard,United States,2,0,1891,1960,69
+Christina Ricci,F,45,Hollywood Boulevard,United States,2,0,1980,2025,45
+Tim Robbins,M,68,Hollywood Boulevard,United States,2,1,1958,2008,50
+Theodore Roberts,M,67,Hollywood Boulevard,United States,,0,1861,1960,
+Cliff Robertson,M,88,Hollywood Boulevard,United States,2,1,1923,1986,63
+Paul Robeson,M,77,Hollywood Boulevard,United States,1,0,1898,1978,
+Edward G. Robinson,M,79,Hollywood Boulevard,Other,1,0,1893,1960,67
+Chris Rock,M,61,Hollywood Boulevard,United States,2,0,1965,2003,38
+Buddy Rogers,M,94,Hollywood Boulevard,United States,2,0,1904,1960,56
+Ginger Rogers,F,83,Hollywood Boulevard,United States,,1,1911,1960,49
+Roy Rogers,M,86,Vine Street,Other,8,0,1911,1960,49
+Will Rogers,M,55,Hollywood Boulevard,Other,4,0,1879,1960,
+Gilbert Roland,M,88,Hollywood Boulevard,Other,2,0,1905,1960,55
+Ruth Roland,F,45,Hollywood Boulevard,United States,,0,1892,1960,
+Cesar Romero,M,86,Hollywood Boulevard,United States,,0,1907,1960,53
+Mickey Rooney,M,93,Vine Street,United States,9,0,1920,1960,40
+Lillian Roth,F,69,Hollywood Boulevard,United States,,0,1910,1960,50
+Alma Rubens,F,33,Hollywood Boulevard,United States,,0,1897,1960,
+Paul Rudd,M,57,Hollywood Boulevard,United States,2,0,1969,2015,46
+Mark Ruffalo,M,58,Hollywood Boulevard,United States,3,0,1967,2024,56
+Charlie Ruggles,M,84,Hollywood Boulevard,United States,,0,1886,1960,74
+Gail Russell,F,36,Hollywood Boulevard,United States,,0,1924,1960,36
+Harold Russell,M,88,Hollywood Boulevard,Canada,2,1,1914,1960,46
+Jane Russell,F,89,Hollywood Boulevard,United States,3,0,1921,1960,39
+Kurt Russell,M,75,Hollywood Boulevard,United States,2,0,1951,2017,66
+Rosalind Russell,F,69,Vine Street,United States,1,0,1907,1960,53
+Ann Rutherford,F,94,Hollywood Boulevard,Canada,1,0,1917,1960,43
+Winona Ryder,F,54,Hollywood Boulevard,United States,,0,1971,2000,29
+Sabu,M,39,Hollywood Boulevard,Other,2,0,1924,1960,36
+Eva Marie Saint,F,102,Hollywood Boulevard,United States,2,1,1924,1960,36
+Zoe Saldaña,F,48,Hollywood Boulevard,United States,3,1,1978,2018,39
+George Sanders,M,65,Vine Street,Other,,1,1906,1960,54
+Adam Sandler,M,60,Hollywood Boulevard,United States,1,0,1966,2011,45
+Susan Sarandon,F,80,Hollywood Boulevard,United States,3,1,1946,2002,56
+Telly Savalas,M,72,Hollywood Boulevard,United States,6,0,1922,1983,61
+Joseph Schildkraut,M,67,Hollywood Boulevard,Other,,1,1896,1960,64
+Arnold Schwarzenegger,M,79,Hollywood Boulevard,Other,5,0,1947,1987,40
+Lizabeth Scott,F,92,Vine Street,United States,,0,1922,1960,38
+Randolph Scott,M,89,Hollywood Boulevard,United States,2,0,1898,1960,62
+Zachary Scott,M,51,Hollywood Boulevard,United States,,0,1914,1960,46
+Dorothy Sebastian,F,53,Hollywood Boulevard,United States,,0,1903,1960,
+Tom Selleck,M,81,Hollywood Boulevard,United States,2,0,1945,1986,41
+Larry Semon,M,39,Hollywood Boulevard,United States,1,0,1889,1960,
+Norma Shearer,F,80,Hollywood Boulevard,Canada,2,1,1902,1960,58
+Charlie Sheen,M,61,Hollywood Boulevard,United States,5,0,1965,1994,29
+Martin Sheen,M,86,Vine Street,United States,0,0,1940,1989,49
+Ann Sheridan,F,51,Hollywood Boulevard,United States,,0,1915,1960,45
+Anne Shirley,F,75,Hollywood Boulevard,United States,2,0,1918,1960,42
+Sylvia Sidney,F,88,Hollywood Boulevard,United States,1,0,1910,1960,50
+Milton Sills,M,48,Hollywood Boulevard,United States,2,0,1882,1960,
+Frank Sinatra,M,82,Vine Street,Other,1,1,1915,1960,45
+Penny Singleton,F,95,Hollywood Boulevard,United States,2,0,1908,1960,52
+C. Aubrey Smith,M,85,Hollywood Boulevard,United Kingdom,,0,1863,1960,
+Jimmy Smits,M,70,Hollywood Boulevard,United States,2,0,1955,2021,66
+Wesley Snipes,M,64,Hollywood Boulevard,United States,5,0,1962,1998,36
+Ann Sothern,F,92,Vine Street,United States,1,0,1909,1960,51
+Sissy Spacek,F,76,Hollywood Boulevard,United States,2,1,1949,2011,62
+Kevin Spacey,M,67,Hollywood Boulevard,United States,,1,1959,1999,40
+David Spade,M,62,Hollywood Boulevard,United States,1,0,1964,2003,39
+Octavia Spencer,F,56,Hollywood Boulevard,United States,,1,1970,2022,52
+Al St. John,M,69,Hollywood Boulevard,Other,1,0,1893,1960,67
+Robert Stack,M,84,Hollywood Boulevard,United States,2,0,1919,1960,41
+Sylvester Stallone,M,80,Hollywood Boulevard,United States,5,0,1946,1984,38
+Barbara Stanwyck,F,82,Vine Street,United States,1,0,1907,1960,53
+Pauline Starke,F,76,Hollywood Boulevard,United States,,0,1901,1960,59
+Mary Steenburgen,F,73,Hollywood Boulevard,United States,2,1,1953,2009,56
+Rod Steiger,M,77,Hollywood Boulevard,United States,2,1,1925,1997,72
+Ford Sterling,M,55,Hollywood Boulevard,United States,,0,1883,1960,
+Jan Sterling,F,82,Hollywood Boulevard,United States,2,0,1921,1960,39
+Onslow Stevens,M,74,Hollywood Boulevard,United States,,0,1902,1960,58
+Anita Stewart,F,66,Hollywood Boulevard,United States,,0,1895,1960,65
+James Stewart,M,89,Vine Street,United States,4,1,1908,1960,52
+Dean Stockwell,M,85,Hollywood Boulevard,United States,2,0,1936,1992,56
+Fred Stone,M,85,Vine Street,United States,1,0,1873,1960,
+George E. Stone,M,64,Hollywood Boulevard,Other,,0,1903,1960,57
+Lewis Stone,M,73,Hollywood Boulevard,United States,3,0,1879,1960,
+Sharon Stone,F,68,Hollywood Boulevard,United States,3,0,1958,1995,37
+Edith Storey,F,75,Vine Street,United States,,0,1892,1960,68
+Lee Strasberg,M,80,Hollywood Boulevard,Other,4,0,1901,1977,76
+Meryl Streep,F,77,Hollywood Boulevard,United States,1,1,1949,1998,49
+Barbra Streisand,F,84,Hollywood Boulevard,United States,1,1,1942,1976,34
+Gloria Stuart,F,100,Hollywood Boulevard,United States,1,0,1910,2000,90
+Margaret Sullavan,F,50,Vine Street,United States,3,0,1909,1960,51
+Barry Sullivan,M,81,Hollywood Boulevard,United States,3,0,1912,1960,48
+Slim Summerville,M,53,Hollywood Boulevard,United States,1,0,1892,1960,
+Donald Sutherland,M,88,Hollywood Boulevard,Canada,5,0,1935,2011,76
+Mack Swain,M,59,Vine Street,United States,,0,1876,1960,
+Hilary Swank,F,52,Hollywood Boulevard,United States,2,1,1974,2007,33
+Gloria Swanson,F,84,Hollywood Boulevard,United States,3,0,1899,1960,61
+Patrick Swayze,M,57,Hollywood Boulevard,United States,,0,1952,1997,45
+Blanche Sweet,F,90,Vine Street,United States,,0,1896,1960,64
+Mabel Taliaferro,F,91,Hollywood Boulevard,United States,1,0,1887,1960,73
+Constance Talmadge,F,75,Hollywood Boulevard,United States,,0,1898,1960,62
+Norma Talmadge,F,63,Vine Street,United States,,0,1894,1960,
+Akim Tamiroff,M,72,Vine Street,Other,,0,1899,1960,61
+Jessica Tandy,F,85,Hollywood Boulevard,United Kingdom,3,1,1909,1960,51
+Elizabeth Taylor,F,79,Hollywood Boulevard,United Kingdom,4,1,1932,1960,28
+Estelle Taylor,F,63,Vine Street,United States,,0,1894,1960,
+Kent Taylor,M,79,Vine Street,United States,3,0,1907,1960,53
+Robert Taylor,M,57,Vine Street,United States,3,0,1911,1960,49
+Shirley Temple,F,85,Vine Street,United States,3,0,1928,1960,32
+Alice Terry,F,88,Hollywood Boulevard,United States,,0,1899,1960,61
+Phyllis Thaxter,F,92,Hollywood Boulevard,United States,2,0,1919,1960,41
+Charlize Theron,F,51,Hollywood Boulevard,Other,2,1,1975,2005,30
+Emma Thompson,F,67,Hollywood Boulevard,United Kingdom,2,1,1959,2010,51
+Fred Thomson,M,38,Hollywood Boulevard,United States,2,0,1890,1960,
+Billy Bob Thornton,M,71,Hollywood Boulevard,United States,4,0,1955,2004,49
+Gene Tierney,F,70,Hollywood Boulevard,United States,2,0,1920,1960,40
+Genevieve Tobin,F,95,Hollywood Boulevard,United States,,0,1899,1960,61
+Thelma Todd,F,29,Hollywood Boulevard,United States,,0,1906,1960,
+Franchot Tone,M,63,Hollywood Boulevard,United States,2,0,1905,1960,55
+Regis Toomey,M,93,Hollywood Boulevard,United States,2,0,1898,1960,62
+David Torrence,M,87,Hollywood Boulevard,United Kingdom,,0,1864,1958,
+Ernest Torrence,M,54,Hollywood Boulevard,United Kingdom,,0,1878,1960,
+Lee Tracy,M,70,Vine Street,United States,,0,1898,1960,62
+Spencer Tracy,M,67,Hollywood Boulevard,United States,2,1,1900,1960,60
+John Travolta,M,72,Hollywood Boulevard,United States,3,0,1954,1985,31
+Arthur Treacher,M,81,Hollywood Boulevard,United Kingdom,,0,1894,1960,66
+Claire Trevor,F,90,Hollywood Boulevard,United States,1,1,1910,1960,50
+Stanley Tucci,M,65,Hollywood Boulevard,United States,5,0,1960,2026,65
+Forrest Tucker,M,67,Hollywood Boulevard,United States,3,0,1919,1986,67
+Tom Tully,M,73,Hollywood Boulevard,United States,1,0,1908,1960,52
+Glynn Turman,M,79,Hollywood Boulevard,United States,4,0,1947,2025,78
+Lana Turner,F,74,Hollywood Boulevard,United States,1,0,1921,1960,39
+Ben Turpin,M,70,Vine Street,United States,,0,1869,1960,
+Helen Twelvetrees,F,49,Hollywood Boulevard,United States,1,0,1908,1960,
+Cicely Tyson,F,96,Hollywood Boulevard,United States,1,0,1924,1997,73
+Rudolph Valentino,M,31,Hollywood Boulevard,Other,,0,1895,1960,
+Virginia Valli,F,70,Hollywood Boulevard,United States,,0,1898,1960,62
+Mamie Van Doren,F,95,Hollywood Boulevard,United States,1,0,1931,1994,63
+Jo Van Fleet,F,80,Hollywood Boulevard,United States,1,1,1915,1960,45
+Robert Vaughn,M,83,Hollywood Boulevard,United States,2,0,1932,1998,66
+Vince Vaughn,M,55,Hollywood Boulevard,United States,2,0,1970,2024,53
+Lupe Vélez,F,36,Hollywood Boulevard,Other,,0,1908,1960,
+Evelyn Venable,F,80,Vine Street,United States,2,0,1913,1960,47
+Vera-Ellen,F,60,Hollywood Boulevard,United States,1,0,1921,1960,39
+Bobby Vernon,M,42,Hollywood Boulevard,United States,1,0,1897,1960,
+Helen Vinson,F,92,Vine Street,United States,,0,1907,1960,53
+Erich von Stroheim,M,71,Hollywood Boulevard,Other,2,0,1885,1960,
+Mark Wahlberg,M,55,Hollywood Boulevard,United States,4,0,1971,2010,39
+Robert Walker,M,32,Vine Street,United States,2,0,1918,1960,
+Henry B. Walthall,M,58,Hollywood Boulevard,United States,1,0,1878,1960,
+Christoph Waltz,M,70,Hollywood Boulevard,Other,4,1,1956,2014,58
+H. B. Warner,M,83,Hollywood Boulevard,United Kingdom,3,0,1875,1960,
+Ruth Warrick,F,88,Hollywood Boulevard,United States,3,0,1916,1960,44
+Naomi Watts,F,58,Hollywood Boulevard,United Kingdom,2,0,1968,2025,57
+John Wayne,M,72,Vine Street,United States,7,1,1907,1960,53
+Sigourney Weaver,F,77,Hollywood Boulevard,United States,1,0,1949,1999,50
+Clifton Webb,M,76,Hollywood Boulevard,United States,,0,1889,1960,71
+Raquel Welch,F,82,Hollywood Boulevard,United States,2,0,1940,1996,56
+Orson Welles,M,70,Vine Street,United States,3,0,1915,1960,45
+Mae West,F,87,Vine Street,United States,,0,1893,1960,67
+Forest Whitaker,M,65,Hollywood Boulevard,United States,3,1,1961,2007,46
+Alice White,F,76,Vine Street,United States,,0,1906,1960,54
+Pearl White,F,49,Hollywood Boulevard,United States,,0,1889,1960,
+Stuart Whitman,M,92,Hollywood Boulevard,United States,5,0,1928,1998,70
+Richard Widmark,M,93,Hollywood Boulevard,United States,1,0,1914,1960,46
+Henry Wilcoxon,M,78,Hollywood Boulevard,Other,3,0,1905,1960,55
+Cornel Wilde,M,77,Vine Street,Other,2,0,1912,1960,48
+Warren William,M,53,Vine Street,United States,,0,1894,1960,
+Billy Dee Williams,M,89,Vine Street,United States,3,0,1937,1985,48
+Earle Williams,M,47,Vine Street,United States,,0,1880,1960,
+Esther Williams,F,91,Vine Street,United States,3,0,1921,1960,39
+Kathlyn Williams,F,81,Hollywood Boulevard,United States,1,0,1879,1960,81
+Robin Williams,M,63,Hollywood Boulevard,United States,3,1,1951,1990,39
+Bruce Willis,M,71,Hollywood Boulevard,Other,5,0,1955,2006,51
+Chill Wills,M,76,Hollywood Boulevard,United States,,0,1902,1960,58
+Lois Wilson,F,93,Hollywood Boulevard,United States,,0,1894,1960,66
+Marie Wilson,F,56,Hollywood Boulevard,United States,,0,1916,1960,44
+Rita Wilson,F,69,Hollywood Boulevard,Other,2,0,1956,2019,62
+Claire Windsor,F,80,Hollywood Boulevard,United States,1,0,1892,1960,68
+Marie Windsor,F,80,Vine Street,United States,1,0,1919,1983,64
+Toby Wing,F,85,Hollywood Boulevard,United States,2,0,1915,1960,45
+Kate Winslet,F,51,Hollywood Boulevard,United Kingdom,3,1,1975,2014,39
+Shelley Winters,F,85,Vine Street,United States,1,1,1920,1960,40
+Jane Withers,F,95,Hollywood Boulevard,United States,5,0,1926,1960,34
+Reese Witherspoon,F,50,Hollywood Boulevard,United States,3,1,1976,2010,34
+Anna May Wong,F,56,Vine Street,United States,,0,1905,1960,55
+Natalie Wood,F,43,Hollywood Boulevard,United States,2,0,1938,1987,
+James Woods,M,79,Hollywood Boulevard,United States,,0,1947,1998,51
+Joanne Woodward,F,96,Hollywood Boulevard,United States,3,1,1930,1960,29
+Monty Woolley,M,74,Hollywood Boulevard,United States,,0,1888,1960,72
+Fay Wray,F,96,Hollywood Boulevard,Canada,3,0,1907,1960,53
+Teresa Wright,F,86,Vine Street,United States,2,1,1918,1960,42
+Jane Wyman,F,90,Hollywood Boulevard,United States,3,1,1917,1960,43
+Ed Wynn,M,79,Vine Street,United States,1,0,1886,1960,74
+Michael York,M,84,Hollywood Boulevard,United Kingdom,,0,1942,2002,60
+Clara Kimball Young,F,70,Hollywood Boulevard,United States,,0,1890,1960,70
+Loretta Young,F,87,Hollywood Boulevard,United States,1,1,1913,1960,47
+Robert Young,M,91,Hollywood Boulevard,United States,4,0,1907,1960,53
+Michelle Yeoh,F,63,Hollywood Boulevard,Other,,1,1962,2026,63
+Renée Zellweger,F,57,Hollywood Boulevard,United States,,1,1969,2005,36
