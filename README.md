@@ -59,7 +59,6 @@ Because all interaction with the site is handled in `01_collect.R` and all parsi
 
 ## Repository structure
 
-```text
 .
 ├── README.md                    # This file
 ├── 01_collect.R                 # Downloads actor HTML pages from Wikipedia
