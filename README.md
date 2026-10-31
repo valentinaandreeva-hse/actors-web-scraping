@@ -69,3 +69,37 @@ Because all interaction with the site is handled in `01_collect.R` and all parsi
 ├── preamble.tex                 # LaTeX preamble for PDF styling
 ├── style.css                    # CSS for HTML report styling
 └── actors_oscar.csv             # Clean analysis dataset
+
+---
+
+## Dataset description
+
+- **File:** `actors_oscar.csv`
+- **Rows:** 944
+- **Columns:** 10
+
+| Variable | Type | Role | Description |
+|---|---|---|---|
+| `actor` | character | Identifier | Full name of the actor |
+| `sex` | character | Control | `M` / `F` |
+| `age` | integer | Control | Age of the actor (at death or current age) |
+| `address` | character | Predictor | Walk of Fame location: `Vine Street` or `Hollywood Boulevard` |
+| `birth_country` | factor | Predictor | Country of birth: `United States`, `United Kingdom`, `Canada`, `Australia`, `Other` |
+| `n_children` | integer | Predictor | Number of children (values > 50 treated as missing) |
+| `oscar_won` | character | **Target** | `1` = won an Oscar, `0` = nominated / not won |
+| `birth_year` | integer | Predictor | Year of birth |
+| `inducted_year` | integer | Predictor | Year the star was added |
+| `age_at_star` | integer | Predictor | Age at induction |
+
+### Target variable details
+
+`oscar_won` is binary and has **no missing values**:
+
+- `1` — the actor won at least one Academy Award;
+- `0` — the actor was nominated or did not win.
+
+Nominations are deliberately collapsed into “not won” to keep the target binary for logistic regression.
+
+## References
+
+Wikipedia contributors. (2026, October 24). List of actors with Hollywood Walk of Fame motion picture stars. In *Wikipedia*. Retrieved October 24, 2026, from https://en.wikipedia.org/wiki/List_of_actors_with_Hollywood_Walk_of_Fame_motion_picture_stars
